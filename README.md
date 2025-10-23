@@ -110,11 +110,12 @@ cd Diabetes_Prediction_DecisionTree_RandomForest
 ```
 
 
----
 
+
+### Step 2: Install Dependencies
 pip install -r requirements.txt
 
----
+### Step 3: Run the Notebook
 
 jupyter notebook Diabetes_Prediction_DecisionTree_RandomForest.ipynb
 
