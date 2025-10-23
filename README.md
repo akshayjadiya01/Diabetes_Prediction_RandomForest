@@ -122,3 +122,13 @@ pip install -r requirements.txt
 jupyter notebook Diabetes_Prediction_DecisionTree_RandomForest.ipynb
 ```
 ---
+
+### 🧾 Author
+
+👤 Akshay Jadiya
+📧 akshayjadiya15@gmail.com
+🔗 https://www.linkedin.com/in/akshay-jadiya-88b663259?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+
