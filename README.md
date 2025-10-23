@@ -95,3 +95,27 @@ It demonstrates a strong understanding of **Machine Learning concepts**, **model
 
 ## 💾 Model Saving
 Both models are saved as `.pkl` files for easy deployment:
+rf_model.pkl # Random Forest Model
+dt_model.pkl # Decision Tree Model
+
+
+---
+
+## 🧪 How to Run the Project
+
+### Step 1: Clone Repository
+```bash
+git clone https://github.com/<your-username>/Diabetes_Prediction_DecisionTree_RandomForest.git
+cd Diabetes_Prediction_DecisionTree_RandomForest
+```
+
+
+---
+
+pip install -r requirements.txt
+
+---
+
+jupyter notebook Diabetes_Prediction_DecisionTree_RandomForest.ipynb
+
+---
